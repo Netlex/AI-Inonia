@@ -8,7 +8,6 @@
 
 	import Modal from '../common/Modal.svelte';
 	import Account from './Settings/Account.svelte';
-	import About from './Settings/About.svelte';
 	import General from './Settings/General.svelte';
 	import Interface from './Settings/Interface.svelte';
 	import Audio from './Settings/Audio.svelte';
