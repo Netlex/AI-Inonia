@@ -2,7 +2,7 @@
 name = "open-webui"
 description = "AI Inonia"
 authors = [
-    { name = "Timothy Jaeryang Baek", email = "tim@openwebui.com" }
+    { name = "Inonia Games", email = "inonia.games@gmail.com" }
 ]
 license = { file = "LICENSE" }
 dependencies = [
